@@ -1,0 +1,25 @@
+{
+  "name": "cykatana",
+  "version": "1.0.0",
+  "description": "e2e cypress tests for Katana",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mik-siv/cyKatana.git"
+  },
+  "author": "mikhail.sivinskikh@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mik-siv/cyKatana/issues"
+  },
+  "homepage": "https://github.com/mik-siv/cyKatana#readme",
+  "dependencies": {
+    "cypress": "^10.0.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
