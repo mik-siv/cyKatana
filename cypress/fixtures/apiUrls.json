@@ -1,0 +1,6 @@
+{
+  "auth": "https://login.katanamrp.com/co/authenticate",
+  "salesOrders": "https://sales.katanamrp.com/api/salesOrderOpenLists*",
+  "customers": "https://customers.katanamrp.com/api/customers**",
+  "googleMapsApi": "https://maps.googleapis.com/**"
+}
